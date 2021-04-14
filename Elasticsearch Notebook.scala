@@ -18,6 +18,12 @@
 
 // COMMAND ----------
 
+test
+
+
+
+// COMMAND ----------
+
 // MAGIC %md
 // MAGIC **Important:** In the following cells, replace `<ip-address>` and `<port>` with your Elasticsearch configuration and `<my>` with your Elasticsearch URL.
 
